@@ -1,4 +1,5 @@
 hello! this is adithya from GIT
 hi this for cicd for periodically
-this for periodical but only if new changes happen
+this for periodical but only if new changes happen poll SCM
+this a option of that we regularlly use the most inportant one in real time github-webhook. It automtically triggers onlt the code chnages
 
